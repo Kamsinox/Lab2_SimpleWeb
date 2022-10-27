@@ -1,0 +1,2 @@
+# Lab2_SimpleWeb
+ Laboratorium2_FullStackwChmurzeObliczeniowej
